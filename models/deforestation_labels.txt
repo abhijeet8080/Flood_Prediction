@@ -1,0 +1,4 @@
+Forest
+Highway_Residential_Industrial
+Field
+River

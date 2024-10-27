@@ -1,0 +1,3 @@
+Heavy
+Moderate
+No_rainfall
